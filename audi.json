@@ -1,0 +1,74 @@
+{
+  "bodyType": "hatchback",
+  "capacity": 1.5,
+  "company": "Audi",
+  "driveType": "front",
+  "fuel": "petrol",
+  "fuelConsumption": 5.1,
+  "imageUrl": "https://ocdn.eu/pulscms-transforms/1/YMKk9kpTURBXy9iYWNjMDhlYmY3YzcwOTZjM2IwZWRhNzZmYzYzY2Y0OS5qcGeSlQMuzQEXzRFtzQnPkwXNAxTNAbyBoTAF",
+  "model": "A1",
+  "power": 150,
+  "price": 117402,
+  "transmission": "manual",
+  "version": "S Tronic"
+}
+
+{
+  "bodyType": "sedan",
+  "capacity": 1.5,
+  "company": "Audi",
+  "driveType": "front",
+  "fuel": "petrol",
+  "fuelConsumption": 5.1,
+  "imageUrl": "https://www.audi.pl/content/dam/nemo/models/a3/a3-limousine/my-2019/1920x1080-inline-media-gallery/1920x1080_zoom_AA3_L_161002_1-1920x1080.jpg",
+  "model": "A3",
+  "power": 150,
+  "price": 110551,
+  "transmission": "manual",
+  "version": "Limousine"
+}
+
+{
+  "bodyType": "kombi",
+  "capacity": 2.0,
+  "company": "Audi",
+  "driveType": "front",
+  "fuel": "diesel",
+  "fuelConsumption": 4.5,
+  "imageUrl": "https://i.ytimg.com/vi/DqBdhV7BMho/maxresdefault.jpg",
+  "model": "A4",
+  "power": 190,
+  "price": 160626,
+  "transmission": "manual",
+  "version": "Avant"
+}
+
+{
+  "bodyType": "coupe",
+  "capacity": 2.9,
+  "company": "Audi",
+  "driveType": "4x4",
+  "fuel": "petrol",
+  "fuelConsumption": 9.1,
+  "imageUrl": "https://assets.nydailynews.com/polopoly_fs/1.3914588.1522865113!/img/httpImage/image.jpg_gen/derivatives/article_815_544/2019-audi-rs5-sportback-gotland-green-left-front-quarter.jpg",
+  "model": "S3",
+  "power": 347,
+  "price": 339320,
+  "transmission": "auto",
+  "version": "Tiptronic"
+}
+
+{
+  "bodyType": "kombi",
+  "capacity": 2.0,
+  "company": "Audi",
+  "driveType": "4x4",
+  "fuel": "diesel",
+  "fuelConsumption": 7.8,
+  "imageUrl": "https://www.patentati.it/listini-auto/foto/audi-a6-32280_wagon-5-doors-audi-a6-avant-front-view.jpg",
+  "model": "S3",
+  "power": 204,
+  "price": 228336,
+  "transmission": "manual",
+  "version": "S tronic"
+}

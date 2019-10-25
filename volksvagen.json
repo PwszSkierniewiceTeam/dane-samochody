@@ -1,0 +1,74 @@
+{
+  "bodyType": "hatchback",
+  "capacity": 1.6,
+  "company": "Volksvagen",
+  "driveType": "front",
+  "fuel": "petrol",
+  "fuelConsumption": 5.8,
+  "imageUrl": "https://media.whatcar.com/450x299/migration/reviews/80479a0e25d19053b77e4ff43f08ea6c1efa695f.jpg",
+  "model": "Golf",
+  "power": 150,
+  "price": 91000,
+  "transmission": "manual",
+  "version": "VII"
+}
+
+{
+  "bodyType": "hatchback",
+  "capacity": 1.2,
+  "company": "Volkswagen",
+  "driveType": "front",
+  "fuel": "petrol",
+  "fuelConsumption": 4.9,
+  "imageUrl": "https://www.google.pl/imgres?imgurl=https%3A%2F%2Fwww.autocar.co.uk%2Fsites%2Fautocar.co.uk%2Ffiles%2Fstyles%2Fgallery_slide%2Fpublic%2Fvolkswagen-polo_1.jpg%3Fitok%3D7uwHoOjQ&imgrefurl=https%3A%2F%2Fwww.autocar.co.uk%2Fcar-review%2Fvolkswagen%2Fpolo&docid=FlDnIybNlxFBrM&tbnid=vZcn_uwQuC_PVM%3A&vet=10ahUKEwiYhqe0m7jlAhXIdJoKHQXbB1MQMwhSKAQwBA..i&w=900&h=596&client=opera&bih=694&biw=1360&q=volksawgen%20polo%202019%20&ved=0ahUKEwiYhqe0m7jlAhXIdJoKHQXbB1MQMwhSKAQwBA&iact=mrc&uact=8",
+  "model": "Polo",
+  "power": 95,
+  "price": 59900,
+  "transmission": "manual",
+  "version": "V"
+}
+
+{
+  "bodyType": "SUV",
+  "capacity": 1.9,
+  "company": "Volksvagen",
+  "driveType": "4x4",
+  "fuel": "diesel",
+  "fuelConsumption": 7.8,
+  "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2019-volkswagen-tiguan-sel-premium-r-line-awd-241-1566309835.jpg?crop=0.668xw:0.729xh;0.0743xw,0.268xh&resize=480:*",
+  "model": "Tiguan",
+  "power": 177,
+  "price": 141950,
+  "transmission": "auto",
+  "version": "Offroad"
+}
+
+{
+  "bodyType": "van",
+  "capacity": 2.0,
+  "company": "Volksvagen",
+  "driveType": "front",
+  "fuel": "diesel",
+  "fuelConsumption": 8.3,
+  "imageUrl": "https://apollo-ireland.akamaized.net/v1/files/eyJmbiI6Im93OTE5ZzBvdzZ0aDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.eDTGl6Ia7S8zGc51eb24VdQCbsYtnNfgkgJ8YS--9k8/image;s=1080x720;cars_;/920958775_;slot=3;filename=eyJmbiI6Im93OTE5ZzBvdzZ0aDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.eDTGl6Ia7S8zGc51eb24VdQCbsYtnNfgkgJ8YS--9k8_rev001.jpg",
+  "model": "Caddy",
+  "power": 131,
+  "price": 102270,
+  "transmission": "manual",
+  "version": "KOMBIVAN"
+}
+
+{
+  "bodyType": "sedan",
+  "capacity": 1.8,
+  "company": "Volksvagen",
+  "driveType": "front",
+  "fuel": "petrol",
+  "fuelConsumption": 7.3,
+  "imageUrl": "https://bi.im-g.pl/im/3f/fe/17/z25157951V,VW-Passat-2019.jpg",
+  "model": "Passat",
+  "power": 260,
+  "price": 202990,
+  "transmission": "manual",
+  "version": "B8"
+}

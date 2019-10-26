@@ -1,0 +1,100 @@
+[
+ {
+   "bodyType": "hatchback",
+   "capacity": 1.2,
+   "company": 'Opel'
+   "driveType": "front",
+   "fuel": "petrol",
+   "fuelConsumption": 6.8,
+   "imageUrl": "https://mmg.opel.de/mmgprod/dynres/prove/image.gen?v=front&i=2019A/0S/0SC68__EC11/G7I/08T_1AB_4AA_A51_BRANDv01_C1R_C60_CMSA_D75_D77_DJA_EU8_EXTMIRRORGLASS_FBD_FRONTBAR_G7I-FRONTBUMPERv01_G7I-PAINT_G7I-REARBUMPERv01_G7I-ROCKERMOLDINGv01_GLASSv01_GROUNDSHADOW_J67_JQ3_KEYv01_LDC_MDB_N37_N52_NAMEPLATEv01_QTX_REARLIGHTv01-ON_RRBv01_S900_SVRC_T3Z_T4A_T4A-ON_TANP-A51v01_TIRE14_UDC_UHH_UJM_WIPERv01_WIPERv03_XP68ngstdzoom.jpg&std=true&country=PL&brand=opel&channel=b2c&phase=phase3bng&quality=0.8",
+   "model": "Corsa",
+   "power": 70,
+   "price": 49150,
+   "transmission": "manual",
+   "version": "5-dors"
+ },
+ {
+   "bodyType": "hatchback",
+   "capacity": 1.4,
+   "company": 'Opel'
+   "driveType": "front",
+   "fuel": "petrol",
+   "fuelConsumption": 6.6,
+   "imageUrl": "https://mmg.opel.de/mmgprod/dynres/prove/image.gen?v=front&i=2019A/0S/0SC68__EC11/G7I/08T_1AB_4AA_A51_BRANDv01_C1R_C60_CMSA_D75_D77_DJA_EU8_EXTMIRRORGLASS_FBD_FRONTBAR_G7I-FRONTBUMPERv01_G7I-PAINT_G7I-REARBUMPERv01_G7I-ROCKERMOLDINGv01_GLASSv01_GROUNDSHADOW_J67_JQ3_KEYv01_LDC_MDB_N37_N52_NAMEPLATEv01_QTX_REARLIGHTv01-ON_RRBv01_S900_SVRC_T3Z_T4A_T4A-ON_TANP-A51v01_TIRE14_UDC_UHH_UJM_WIPERv01_WIPERv03_XP68ngstdzoom.jpg&std=true&country=PL&brand=opel&channel=b2c&phase=phase3bng&quality=0.8",
+   "model": "Corsa",
+   "power": 100,
+   "price": 56900,
+   "transmission": "manual",
+   "version": "5-dors"
+ },
+ {
+   "bodyType": "hatchback",
+   "capacity": 1.4,
+   "company": 'Opel'
+   "driveType": "front",
+   "fuel": "petrol",
+   "fuelConsumption": 6.3,
+   "imageUrl": "https://mmg.opel.de/mmgprod/dynres/prove/image.gen?v=side&i=2019A/0B/0BD35__GIJ1/G7I/4AA_A51_A64_AER_AKP_AKX_AQPv01_BADGEv04_BASEv01_BRANDv01_C67_D31v01_D75_DIFFUSORv01_DP6_DWE_FRONTBUMPERv01_FRONTGRILLv01_G7I-FRONTBUMPERv01_G7I-KEYv01_G7I-MIRRORv01_G7I-PAINT_G7I-REARBUMPERv01_G7I-ROOF_GLASS-FRONT-LHD_GLASS-REARv01_GROUNDSHADOW_HEATINGv01_HEATINGv02_IOB_K33_KEYv01_LIPv01_LOGO_MDB_N34_N37_NAMEPLATEv01_OLD_Q2L_REARLAMPv01-ON_RRLv01_RRLv03_S900_T3S_T43_T4A_T4A-ONv01_T4A-ONv02_T79_TAQEv01_TIRE15_U91v01_UC3_UDC_UHH_UJM_V6C_WIPERv01ngstdzoom.jpg&std=true&country=PL&brand=opel&channel=b2c&phase=phase3bng&quality=0.8",
+   "model": "Astra",
+   "power": 125,
+   "price": 78600,
+   "transmission": "manual",
+   "version": "Sports Tourer"
+ },
+ {
+   "bodyType": "hatchback",
+   "capacity": 1.6,
+   "company": 'Opel'
+   "driveType": "front",
+   "fuel": "diesel",
+   "fuelConsumption": 5.1,
+   "imageUrl": "https://mmg.opel.de/mmgprod/dynres/prove/image.gen?v=side&i=2019A/0B/0BD35__GIJ1/G7I/4AA_A51_A64_AER_AKP_AKX_AQPv01_BADGEv04_BASEv01_BRANDv01_C67_D31v01_D75_DIFFUSORv01_DP6_DWE_FRONTBUMPERv01_FRONTGRILLv01_G7I-FRONTBUMPERv01_G7I-KEYv01_G7I-MIRRORv01_G7I-PAINT_G7I-REARBUMPERv01_G7I-ROOF_GLASS-FRONT-LHD_GLASS-REARv01_GROUNDSHADOW_HEATINGv01_HEATINGv02_IOB_K33_KEYv01_LIPv01_LOGO_MDB_N34_N37_NAMEPLATEv01_OLD_Q2L_REARLAMPv01-ON_RRLv01_RRLv03_S900_T3S_T43_T4A_T4A-ONv01_T4A-ONv02_T79_TAQEv01_TIRE15_U91v01_UC3_UDC_UHH_UJM_V6C_WIPERv01ngstdzoom.jpg&std=true&country=PL&brand=opel&channel=b2c&phase=phase3bng&quality=0.8",
+   "model": "Astra",
+   "power": 136,
+   "price": 89200,
+   "transmission": "manual",
+   "version": "Sports Tourer"
+ },
+ {
+   "bodyType": "SUV",
+   "capacity": 1.4,
+   "company": 'Opel'
+   "driveType": "front",
+   "fuel": "LPG",
+   "fuelConsumption": 9.5,
+   "imageUrl": "https://mmg.opel.de/mmgprod/dynres/prove/image.gen?v=front&i=2019A/0I/0IC76__I8J1/G7I/01A_1AB_4AA_A77_ADY_AER_AIF_ATG_BASEv01_BRAKE_BRANDv01_BXQ_C25_C67_D75_DG6_ELW_FBD_G7I-D75v01_G7I-PAINTv01_GLASS-FRONT-LHD_GLASS-REARv01_GROUNDSHADOW_IP1_JL9_K33_N34_N37_NAMEPLATEv01_NBRv03_RQC_RRYv01_S900_SBM_SBM-ON_T39_T3S_T3U_T79_TATA-AE4v01_TIRE16_TVN-ON_UC3_UDC_UJM_V2P_VEY_WCCv01_WIPERv01_XBADGEngstdzoom.jpg&std=true&country=PL&brand=opel&channel=b2c&phase=phase3bng&quality=0.8",
+   "model": "Mokka",
+   "power": 140,
+   "price": 89550,
+   "transmission": "manual",
+   "version": "X"
+ },
+ {
+   "bodyType": "SUV",
+   "capacity": 1.6,
+   "company": 'Opel'
+   "driveType": "front",
+   "fuel": "diesel",
+   "fuelConsumption": 6.0,
+   "imageUrl": "https://mmg.opel.de/mmgprod/dynres/prove/image.gen?v=front&i=2019A/0I/0IC76__I8J1/G7I/01A_1AB_4AA_A77_ADY_AER_AIF_ATG_BASEv01_BRAKE_BRANDv01_BXQ_C25_C67_D75_DG6_ELW_FBD_G7I-D75v01_G7I-PAINTv01_GLASS-FRONT-LHD_GLASS-REARv01_GROUNDSHADOW_IP1_JL9_K33_N34_N37_NAMEPLATEv01_NBRv03_RQC_RRYv01_S900_SBM_SBM-ON_T39_T3S_T3U_T79_TATA-AE4v01_TIRE16_TVN-ON_UC3_UDC_UJM_V2P_VEY_WCCv01_WIPERv01_XBADGEngstdzoom.jpg&std=true&country=PL&brand=opel&channel=b2c&phase=phase3bng&quality=0.8",
+   "model": "Mokka",
+   "power": 136,
+   "price": 95050,
+   "transmission": "manual",
+   "version": "X"
+ },
+ {
+   "bodyType": "sedan",
+   "capacity": 1.5,
+   "company": 'Opel'
+   "driveType": "front",
+   "fuel": "petrol",
+   "fuelConsumption": 5.5,
+   "imageUrl": "https://www.opel.pl/content/dam/opel/master/vehicles/new-insignia-grand-sport/my_19/21x9/Opel_Insignia_GS_Exterior_21x9_ins19_e02_025.jpg?imwidth=1438",
+   "model": "Insignia",
+   "power": 136,
+   "price": 102950,
+   "transmission": "manual",
+   "version": "Grand Sport"
+ }
+] 

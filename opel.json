@@ -2,7 +2,7 @@
  {
    "bodyType": "hatchback",
    "capacity": 1.2,
-   "company": 'Opel'
+   "company": "Opel",
    "driveType": "front",
    "fuel": "petrol",
    "fuelConsumption": 6.8,
@@ -16,7 +16,7 @@
  {
    "bodyType": "hatchback",
    "capacity": 1.4,
-   "company": 'Opel'
+   "company": "Opel",
    "driveType": "front",
    "fuel": "petrol",
    "fuelConsumption": 6.6,
@@ -30,7 +30,7 @@
  {
    "bodyType": "hatchback",
    "capacity": 1.4,
-   "company": 'Opel'
+   "company": "Opel",
    "driveType": "front",
    "fuel": "petrol",
    "fuelConsumption": 6.3,
@@ -44,7 +44,7 @@
  {
    "bodyType": "hatchback",
    "capacity": 1.6,
-   "company": 'Opel'
+   "company": "Opel",
    "driveType": "front",
    "fuel": "diesel",
    "fuelConsumption": 5.1,
@@ -58,7 +58,7 @@
  {
    "bodyType": "SUV",
    "capacity": 1.4,
-   "company": 'Opel'
+   "company": "Opel",
    "driveType": "front",
    "fuel": "LPG",
    "fuelConsumption": 9.5,
@@ -72,7 +72,7 @@
  {
    "bodyType": "SUV",
    "capacity": 1.6,
-   "company": 'Opel'
+   "company": "Opel",
    "driveType": "front",
    "fuel": "diesel",
    "fuelConsumption": 6.0,
@@ -86,7 +86,7 @@
  {
    "bodyType": "sedan",
    "capacity": 1.5,
-   "company": 'Opel'
+   "company": "Opel",
    "driveType": "front",
    "fuel": "petrol",
    "fuelConsumption": 5.5,

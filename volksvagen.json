@@ -1,4 +1,4 @@
-{
+[{
   "bodyType": "hatchback",
   "capacity": 1.6,
   "company": "Volksvagen",
@@ -11,8 +11,7 @@
   "price": 91000,
   "transmission": "manual",
   "version": "VII"
-}
-
+},
 {
   "bodyType": "hatchback",
   "capacity": 1.2,
@@ -26,8 +25,7 @@
   "price": 59900,
   "transmission": "manual",
   "version": "V"
-}
-
+},
 {
   "bodyType": "SUV",
   "capacity": 1.9,
@@ -41,8 +39,7 @@
   "price": 141950,
   "transmission": "auto",
   "version": "Offroad"
-}
-
+},
 {
   "bodyType": "van",
   "capacity": 2.0,
@@ -56,8 +53,7 @@
   "price": 102270,
   "transmission": "manual",
   "version": "KOMBIVAN"
-}
-
+},
 {
   "bodyType": "sedan",
   "capacity": 1.8,
@@ -71,4 +67,4 @@
   "price": 202990,
   "transmission": "manual",
   "version": "B8"
-}
+}]

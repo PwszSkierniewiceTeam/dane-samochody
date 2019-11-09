@@ -11,7 +11,7 @@
    "power": 70,
    "price": 49150,
    "transmission": "manual",
-   "version": "5-dors"
+   "version": "E"
  },
  {
    "bodyType": "hatchback",
@@ -25,10 +25,10 @@
    "power": 100,
    "price": 56900,
    "transmission": "manual",
-   "version": "5-dors"
+   "version": "E"
  },
  {
-   "bodyType": "hatchback",
+   "bodyType": "wagon",
    "capacity": 1.4,
    "company": "Opel",
    "driveType": "front",
@@ -39,10 +39,10 @@
    "power": 125,
    "price": 78600,
    "transmission": "manual",
-   "version": "Sports Tourer"
+   "version": "K"
  },
  {
-   "bodyType": "hatchback",
+   "bodyType": "wagon",
    "capacity": 1.6,
    "company": "Opel",
    "driveType": "front",
@@ -53,7 +53,7 @@
    "power": 136,
    "price": 89200,
    "transmission": "manual",
-   "version": "Sports Tourer"
+   "version": "K"
  },
  {
    "bodyType": "SUV",
@@ -95,6 +95,6 @@
    "power": 136,
    "price": 102950,
    "transmission": "manual",
-   "version": "Grand Sport"
+   "version": "B"
  }
 ] 

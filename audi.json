@@ -1,3 +1,5 @@
+[
+
 {
   "bodyType": "hatchback",
   "capacity": 1.5,
@@ -10,9 +12,8 @@
   "power": 150,
   "price": 117402,
   "transmission": "manual",
-  "version": "S Tronic"
-}
-
+  "version": "GB"
+},
 {
   "bodyType": "sedan",
   "capacity": 1.5,
@@ -25,11 +26,10 @@
   "power": 150,
   "price": 110551,
   "transmission": "manual",
-  "version": "Limousine"
-}
-
+  "version": "8V"
+},
 {
-  "bodyType": "kombi",
+  "bodyType": "wagon",
   "capacity": 2.0,
   "company": "Audi",
   "driveType": "front",
@@ -40,9 +40,8 @@
   "power": 190,
   "price": 160626,
   "transmission": "manual",
-  "version": "Avant"
-}
-
+  "version": "B9"
+},
 {
   "bodyType": "coupe",
   "capacity": 2.9,
@@ -55,11 +54,10 @@
   "power": 347,
   "price": 339320,
   "transmission": "auto",
-  "version": "Tiptronic"
-}
-
+  "version": "S3"
+},
 {
-  "bodyType": "kombi",
+  "bodyType": "wagon",
   "capacity": 2.0,
   "company": "Audi",
   "driveType": "4x4",
@@ -70,5 +68,6 @@
   "power": 204,
   "price": 228336,
   "transmission": "manual",
-  "version": "S tronic"
-}
+  "version": "S3"
+}]
+
